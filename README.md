@@ -6,3 +6,6 @@
 3. Click on "Abonneren" (subscribe)
 4. Fill in a name and click on "Bevestigen"
 5. Grab your key (either primary or secondary will do)
+
+## Todo
+- Show times on RPI LED/e-ink screen
